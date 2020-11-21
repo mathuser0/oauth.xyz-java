@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mathuser0/oauth.xyz-java.svg?branch=master)](https://travis-ci.com/mathuser0/oauth.xyz-java)
+
 XYZ implementation in Java.
 
 To run, start a mongo DB instance:
